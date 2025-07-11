@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
   
    <div>
     <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
